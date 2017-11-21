@@ -3,9 +3,9 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
+.idea/
 *.iml
-out
-gen
-target
+out/
+gen/
+target/
 
