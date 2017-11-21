@@ -8,4 +8,9 @@
 out/
 gen/
 target/
-
+.DS_Store
+lib/
+src/main/resources/
+src/test/.DS_Store
+src/test/de/.DS_Store
+src/test/de/itemis/.DS_Store
